@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+dist/
+*.tmp.html
+*.tmp
+test-results/
+__pycache__/
+.venv/
+.vscode/
